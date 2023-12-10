@@ -2,6 +2,7 @@
 
 ## ConvertEase
 Welcome to the ConvertEase repository! ConvertEase is designed to provide a seamless experience for converting files, focusing on PDF to TXT and TXT to PDF conversions.
+
 ![image](https://github.com/kejun7219/cat_assignment1/assets/117891999/8a0a0c51-5434-419b-8c3f-3b770d67d06a)
 
 ## ConvertEase Developer Team
