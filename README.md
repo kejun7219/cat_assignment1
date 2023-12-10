@@ -1,8 +1,7 @@
-# ConvertEase
+#CAT201 ASSIGNMENT 1 : Integrated Software Development Workshop 2023/2024
+
+## ConvertEase
 Welcome to the ConvertEase repository! ConvertEase is designed to provide a seamless experience for converting files, focusing on PDF to TXT and TXT to PDF conversions.
-
-![image](https://github.com/kejun7219/cat_assignment1/assets/117891999/52982fa6-5e8e-4a18-9957-6cd0d8e31cf6)
-
 
 ## ConvertEase Developer Team
 ![team](https://github.com/kejun7219/cat_assignment1/assets/116903730/f76628bb-8060-4c42-b52b-58a954783b97)
@@ -46,3 +45,14 @@ Apache running on a Linux environment
 
 ## Demo Video
 
+## PHP Server 
+Install <a href="https://www.php.net/">PHP</a>.
+
+> We will need to enable the zip extension in PHP
+> 1. Find the php.ini file that your PHP installation is using
+> 2. Write in a notepad
+>    ```bash
+>    extension=path/to/your/php_zip.dll  ; (Windows)
+>    ```
+> 3. Save the file type as 'All File' and name the file 'php.ini'
+> 4. Lastly, save in your php folder.
