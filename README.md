@@ -46,6 +46,9 @@ Apache running on a Linux environment
 
 ## Demo Video
 
+https://github.com/kejun7219/cat_assignment1/assets/116903730/dbf9d3da-2be3-443d-8eca-279fdb80f84f
+
+
 ## PHP Server 
 Install <a href="https://www.php.net/">PHP</a>.
 
