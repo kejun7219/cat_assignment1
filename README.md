@@ -1,4 +1,4 @@
-#CAT201 ASSIGNMENT 1 : Integrated Software Development Workshop 2023/2024
+# CAT201 ASSIGNMENT 1 : Integrated Software Development Workshop 2023/2024
 
 ## ConvertEase
 Welcome to the ConvertEase repository! ConvertEase is designed to provide a seamless experience for converting files, focusing on PDF to TXT and TXT to PDF conversions.
