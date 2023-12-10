@@ -48,11 +48,14 @@ Apache running on a Linux environment
 ## PHP Server 
 Install <a href="https://www.php.net/">PHP</a>.
 
-> We will need to enable the zip extension in PHP
-> 1. Find the php.ini file that your PHP installation is using
-> 2. Write in a notepad
+> We will need to enable the Zip extension in PHP on a Windows system by configuring the php.ini file.
+> 1. Find your PHP configuration file, php.ini.
+> 2. Use Notepad to create a new file.
+> 3. Write and save the line:
 >    ```bash
 >    extension=path/to/your/php_zip.dll  ; (Windows)
 >    ```
-> 3. Save the file type as 'All File' and name the file 'php.ini'
-> 4. Lastly, save in your php folder.
+>    Replace "path/to/your/php_zip.dll" with the actual file path.
+> 4. Save the file as 'php.ini' and set the file type to 'All Files'.
+> 5. Save the 'php.ini' file in your PHP installation folder.
+> 6. Restart your web server to apply the changes.
