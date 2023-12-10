@@ -3,6 +3,7 @@ Welcome to the ConvertEase repository! ConvertEase is designed to provide a seam
 
 ![image](https://github.com/kejun7219/cat_assignment1/assets/117891999/52982fa6-5e8e-4a18-9957-6cd0d8e31cf6)
 
+
 ## ConvertEase Developer Team
 ![team](https://github.com/kejun7219/cat_assignment1/assets/116903730/f76628bb-8060-4c42-b52b-58a954783b97)
 
@@ -19,7 +20,11 @@ Welcome to the ConvertEase repository! ConvertEase is designed to provide a seam
 ## Project Overview
 ConvertEase is a user-friendly file conversion platform designed to cater to the needs of the CAT201 Assignment 1 for Term 23/24. Our platform supports one-to-multiple file conversions, enabling users to effortlessly convert files between PDF and TXT formats. We prioritize user convenience by offering instant download options for converted files directly to their devices.
 
-![image](https://github.com/kejun7219/cat_assignment1/assets/117891999/52982fa6-5e8e-4a18-9957-6cd0d8e31cf6)
+![Screenshot 2023-12-10 175516](https://github.com/kejun7219/cat_assignment1/assets/116903730/cd3f0108-7c3a-41b5-af17-398f38d5c610)
+
+![Screenshot 2023-12-10 175615](https://github.com/kejun7219/cat_assignment1/assets/116903730/23f58c23-a666-4caa-8202-6a77a681c5e5)
+
+![Screenshot 2023-12-10 175643](https://github.com/kejun7219/cat_assignment1/assets/116903730/4972c0e7-0e70-4d4e-8aa9-8d4a7aaf95ae)
 
 
 ## Demo Video
